@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+venv
+.idea/*
+*/__pycache__/*
+nltk_data
+download/*
+*.zip
+test.py
+migrations/*
+static/*
+data/*
+*.pyc
+doc2docxF/*
+plag_detail/*
+request.http
